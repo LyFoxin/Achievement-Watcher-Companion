@@ -1,0 +1,29 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\Aures\eclipse-workspace\AchivmentWatcherCompanion\Achievement Watcher Companion.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Aures\eclipse-workspace\AchivmentWatcherCompanion\.
+Java min ver:	1.004.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_261\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_261
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_261\bin\javaw.exe (OK)
+Match:		1.008.000_261
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\13.0.2
+Check launcher:	C:\Program Files\Java\jdk-13.0.2\bin\javaw.exe (OK)
+Match:		1.013.000_002
+Runtime used:	1.013.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-13.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Aures\eclipse-workspace\AchivmentWatcherCompanion\Achievement Watcher Companion.exe"
+Args length:	99/32768 chars
+Exit code:	0
